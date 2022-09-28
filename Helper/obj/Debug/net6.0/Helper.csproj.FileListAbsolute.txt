@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/bin/Debug/net6.0/Helper
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/bin/Debug/net6.0/Helper.deps.json
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/bin/Debug/net6.0/Helper.runtimeconfig.json
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/bin/Debug/net6.0/Helper.dll
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/bin/Debug/net6.0/Helper.pdb
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.AssemblyInfo.cs
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.dll
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/refint/Helper.dll
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.pdb
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/Helper.genruntimeconfig.cache
+/Users/kittinunchobtham/Documents/MDT211/class4/Helper/obj/Debug/net6.0/ref/Helper.dll

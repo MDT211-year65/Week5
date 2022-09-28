@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.AssemblyInfo.cs
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/bin/Debug/net6.0/GuitarShop
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/bin/Debug/net6.0/GuitarShop.deps.json
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/bin/Debug/net6.0/GuitarShop.runtimeconfig.json
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/bin/Debug/net6.0/GuitarShop.dll
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/bin/Debug/net6.0/GuitarShop.pdb
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.dll
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/refint/GuitarShop.dll
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.pdb
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/GuitarShop.genruntimeconfig.cache
+/Users/kittinunchobtham/Documents/MDT211/class3/GuitarShop/obj/Debug/net6.0/ref/GuitarShop.dll
